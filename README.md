@@ -19,17 +19,7 @@ ARC Version 1.0.0 contains a library of questions to be used in Case Report Form
 - **Mpox Preset:** The Mpox template of ARC Version 1.0.0 contains 413 questions to be used for CRFs for Mpox outbreak responses, grouped within the forms and sections described above. This preset has a section on skin and mucosal assessment for Mpox lesions. 
 - **H5Nx Template:** The H5Nx template of ARC Version 1.0.0 contains 401 questions to be used for CRFs for Influenza H5Nx outbreak responses, grouped within the forms and sections described above.
 
-## Repository Structure
-
-The ARC repository follows a structured organization to maintain different versions of ARC and related files. Below is an overview of the repository structure:
-
-- **Root Directory:** The top-level directory, which is the "ARC" folder within the main ISARICResearch repository. It contains all versions of ARC and related files.
-
-- **Version Directories:** Within the "ARC" folder, there are separate directories for each version of ARC. These directories are named according to the version number (e.g., "ARC_v1.0," "ARC_v2.0," etc.). Each version directory contains the specific version of ARC and associated files.
-
-- **list Directory:** Inside each version directory, there is a "list" directory. This directory contains additional resources related to the specific version of ARC.
-
-- **Files:**
+## Files
 
    - **Clinical Characterization XML:** This XML file provides a recommended configuration and structure for clinical characterization studies. It includes information about users, events, project settings, and functionality, serving as a reference for setting up clinical characterization studies.
 
