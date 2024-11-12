@@ -59,19 +59,18 @@ If you want to use ARC for your research or study, follow these steps:
 ### Conceptualization
 - Laura Merson - [laura.merson@ndm.ox.ac.uk](mailto:laura.merson@ndm.ox.ac.uk)
 
-### Technical Support
-- Esteban Garcia-Gallo - [esteban.garcia@ndm.ox.ac.uk](mailto:esteban.garcia@ndm.ox.ac.uk)
-- Sara Duque-Vallejo - [sara.duquevallejo@ndm.ox.ac.uk](mailto:sara.duquevallejo@ndm.ox.ac.uk)
-- Tom Edinburgh - [tom.edinburgh@ndm.ox.ac.uk](mailto:tom.edinburgh@ndm.ox.ac.uk)
-- Miles Lunn - [miles.lunn@ndm.ox.ac.uk](mailto:miles.lunn@ndm.ox.ac.uk)
-- Sadie Kelly - [sadie.kelly@ndm.ox.ac.uk](mailto:sadie.kelly@ndm.ox.ac.uk)
-
 ### Clinical Expertise
 - Dhruv Darji - [dhruv.darji@gtc.ox.ac.uk](mailto:dhruv.darji@gtc.ox.ac.uk)
 - Amanda Rojek - [amanda.rojek@ndm.ox.ac.uk](mailto:amanda.rojek@ndm.ox.ac.uk)
 - Jake Dunning - [jake.dunning@ndm.ox.ac.uk](mailto:jake.dunning@ndm.ox.ac.uk)
 - Gail Carson - [gail.carson@ndm.ox.ac.uk](mailto:gail.carson@ndm.ox.ac.uk)
 
+### Technical Support
+- Esteban Garcia-Gallo - [esteban.garcia@ndm.ox.ac.uk](mailto:esteban.garcia@ndm.ox.ac.uk)
+- Sara Duque-Vallejo - [sara.duquevallejo@ndm.ox.ac.uk](mailto:sara.duquevallejo@ndm.ox.ac.uk)
+- Tom Edinburgh - [tom.edinburgh@ndm.ox.ac.uk](mailto:tom.edinburgh@ndm.ox.ac.uk)
+- Miles Lunn - [miles.lunn@ndm.ox.ac.uk](mailto:miles.lunn@ndm.ox.ac.uk)
+- Sadie Kelly - [sadie.kelly@ndm.ox.ac.uk](mailto:sadie.kelly@ndm.ox.ac.uk)
 
 ---
 
